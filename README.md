@@ -7,7 +7,7 @@ This project aims to predict the 10-year risk of coronary heart disease (CHD) us
 - Evaluated the model using accuracy, classification report, and confusion matrix.
 
 ## 📁 Dataset
-- Source: Framingham Heart Study dataset
+- **Source**: Framingham Heart Study dataset
 - **Target Variable**: `TenYearCHD` (1 = risk of heart disease in 10 years, 0 = no risk)
 
 ## 🧪 Libraries Used
